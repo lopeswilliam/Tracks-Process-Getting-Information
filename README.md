@@ -1,5 +1,11 @@
 # Tracks-Process-Getting-Information
 
+# Objetivo da solução arquitetural.
+ - Propor uma solucção arquitetural que integre processos e sistemas de forma eficiente, garantindo a entrega de valor para a organização.
+
+ - Isso inclui a definição de contextos, capacidades de negócio e domínios funcionais, escalabilidade das soluções para garantir alta disponibilidade, segurança e desempenho, a comunicação eficaz entre áreas e serviços, padrões arquiteturais, integração de tecnologias, além de otimização de requisitos não-funcionais.
+
+
 # Objetivo deste processo é obter informações especificas sobre qualquer tipo de informação. 
 
  - Seja dados estruturados, como nao estruturados, o processo passa por toda a resolução e identificação com o sentido e proposito de poder utilizar os registros de forma desacoplada 
