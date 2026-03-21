@@ -24,5 +24,5 @@ tudo com segurança e privacidade.
 
  - AWS Database Migration Service (AWS DMS) é um serviço gerenciado da AWS que facilita a migração de bancos de dados para a nuvem. 
 
-# LEITURA DE INFORMAÇÕES:
+# Leitura de Informações.
  - Os arquivos podem  ser lidos em qualquer tipo de formato, csv, json, excel, doc ou base de dados.
