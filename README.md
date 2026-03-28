@@ -26,3 +26,10 @@ tudo com segurança e privacidade.
 
 # Leitura de Informações.
  - Os arquivos podem  ser lidos em qualquer tipo de formato, csv, json, excel, doc ou base de dados.
+
+# Observação
+ - Foram avaliados os requisitos não funcionais e funcionais para validar a usabilidade da plataforma com seus recursos, aplicando todos os critérios de aceite-a utilização da ferramenta que sugerimos como adoção.
+
+ - O desenho arquitetural, está sujeito a alterações.
+
+# Tracks I.A. INNOVATION BY WILLIAM LOPES
